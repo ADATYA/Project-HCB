@@ -2,3 +2,9 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-family: 'Roboto', sans-serif;
 }
+.banner-container{
+    background-color: rgb(0, 170, 255);
+}
+.banner-column{
+    background-color: #ff4453;
+}
